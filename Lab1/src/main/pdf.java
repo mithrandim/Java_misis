@@ -17,7 +17,7 @@ public class pdf
 {
     public static void main(String[] args)
     {
-        File file = new File("C:/Admin/Programming/Java/Lab1/sample.pdf");
+        File file = new File("sample.pdf");
 
         try
         {
@@ -30,7 +30,7 @@ public class pdf
             PDDocument pdf = new PDDocument(cosDoc);
             String text = stripper.getText(pdf);
 
-            FileWriter writer = new FileWriter("C:/Admin/Programming/Java/Lab1/pdf_text.txt", false);
+            FileWriter writer = new FileWriter("pdf_text.txt", false);
             writer.write(text);
             writer.flush();
         }
