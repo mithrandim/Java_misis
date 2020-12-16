@@ -1,0 +1,116 @@
+
+
+Запуск 5.2.706 [6468] "D:\ASMO\phx-5.02.706-windows-x32\phx.exe" 
+## 5.2.706 [6468]
+2020/05/13 16:11:12:661 [6468,14424] ERROR v5.2.706 GetLocationInfo::LoadLibrary=126
+2020/05/13 16:11:12:662 [6468,14424] ERROR v5.2.706 EFOpenError: Cannot open file "D:\ASMO\phx-5.02.706-windows-x32\dbginfo.dll". Не удается найти указанный файл
+ exception in: [12509F9B] ?
+	at [12450AC2] ?
+	at [12509E55] ?
+	at [1250A237] ?
+	at [004A99B7] ?
+	at [004A9E0A] ?
+	at [004AEFB6] ?
+	at [004AF8C5] ?
+	at [0048B2F8] ?
+	at [0050B8B1] ?
+	at [74826359] ?
+	at [76FE7C14] ?
+	at [76FE7BE4] ?
+2020/05/13 16:11:54:359 [6468,3992] Program start: D:\ASMO\phx-5.02.706-windows-x32\phx.exe
+2020/05/13 16:11:54:358 [6468,3992] INFO  ConnectToServer: Connecting to: admin@127.0.0.1[localhost:5001]:5001/
+2020/05/13 16:11:54:368 [6468,3992] INFO  ConnectToServer: Sending client prelude
+2020/05/13 16:11:54:369 [6468,3992] INFO  ConnectToServer: Receiving agent prelude
+2020/05/13 16:11:54:427 [6468,3992] INFO  ConnectToServer: Salt authentication
+2020/05/13 16:11:54:443 [6468,3992] INFO  agent ver:5.2.674
+2020/05/13 16:11:54:444 [6468,3992] INFO  ConnectToServer: LoginOK (connection time: 0.83sec)
+2020/05/13 16:11:54:445 [6468,3992] INFO  ConnectToServer: LoginUserID 6 SessionID 64270150721002
+2020/05/13 16:11:54:541 [6468,14424] INFO  update client: server does not contain updates, the update will not be executed
+2020/05/13 16:11:54:702 [6468,14424] INFO  Нарушение целостности модулей клиента.
+
+
+Запуск 5.2.706 [9564] "D:\ASMO\phx-5.02.706-windows-x32\phx.exe" 
+## 5.2.706 [9564]
+2020/05/13 16:12:11:629 [9564,13152] ERROR v5.2.706 GetLocationInfo::LoadLibrary=126
+2020/05/13 16:12:11:630 [9564,13152] ERROR v5.2.706 EFOpenError: Cannot open file "D:\ASMO\phx-5.02.706-windows-x32\dbginfo.dll". Не удается найти указанный файл
+ exception in: [12509F9B] ?
+	at [12450AC2] ?
+	at [12509E55] ?
+	at [1250A237] ?
+	at [004A99B7] ?
+	at [004A9E0A] ?
+	at [004AEFB6] ?
+	at [004AF8C5] ?
+	at [0048B2F8] ?
+	at [0050B8B1] ?
+	at [74826359] ?
+	at [76FE7C14] ?
+	at [76FE7BE4] ?
+2020/05/13 16:12:13:125 [9564,15476] Program start: D:\ASMO\phx-5.02.706-windows-x32\phx.exe
+2020/05/13 16:12:13:125 [9564,15476] INFO  ConnectToServer: Connecting to: admin@127.0.0.1[localhost:5001]:5001/
+2020/05/13 16:12:13:133 [9564,15476] INFO  ConnectToServer: Sending client prelude
+2020/05/13 16:12:13:134 [9564,15476] INFO  ConnectToServer: Receiving agent prelude
+2020/05/13 16:12:13:137 [9564,15476] INFO  ConnectToServer: Salt authentication
+2020/05/13 16:12:13:141 [9564,15476] INFO  agent ver:5.2.674
+2020/05/13 16:12:13:142 [9564,15476] INFO  ConnectToServer: LoginOK (connection time: 0.16sec)
+2020/05/13 16:12:13:143 [9564,15476] INFO  ConnectToServer: LoginUserID 6 SessionID 64270150721003
+2020/05/13 16:12:13:209 [9564,13152] INFO  update client: server does not contain updates, the update will not be executed
+2020/05/13 16:12:13:253 [9564,13152] INFO  Нарушение целостности модулей клиента.
+
+
+Запуск 5.2.706 [9796] "D:\ASMO\phx-5.02.706-windows-x32\phx.exe" 
+## 5.2.706 [9796]
+2020/05/13 16:15:00:013 [9796,12340] ERROR v5.2.706 GetLocationInfo::LoadLibrary=126
+2020/05/13 16:15:00:014 [9796,12340] ERROR v5.2.706 EFOpenError: Cannot open file "D:\ASMO\phx-5.02.706-windows-x32\dbginfo.dll". Не удается найти указанный файл
+ exception in: [12509F9B] ?
+	at [12450AC2] ?
+	at [12509E55] ?
+	at [1250A237] ?
+	at [004A99B7] ?
+	at [004A9E0A] ?
+	at [004AEFB6] ?
+	at [004AF8C5] ?
+	at [0048B2F8] ?
+	at [0050B8B1] ?
+	at [74826359] ?
+	at [76FE7C14] ?
+	at [76FE7BE4] ?
+2020/05/13 16:15:08:727 [9796,10004] Program start: D:\ASMO\phx-5.02.706-windows-x32\phx.exe
+2020/05/13 16:15:08:727 [9796,10004] INFO  ConnectToServer: Connecting to: fav@127.0.0.1[localhost:5001]:5001/
+2020/05/13 16:15:08:757 [9796,10004] INFO  ConnectToServer: Sending client prelude
+2020/05/13 16:15:08:758 [9796,10004] INFO  ConnectToServer: Receiving agent prelude
+2020/05/13 16:15:08:877 [9796,10004] INFO  ConnectToServer: Salt authentication
+2020/05/13 16:15:08:955 [9796,10004] INFO  agent ver:5.2.674
+2020/05/13 16:15:08:956 [9796,10004] INFO  ConnectToServer: Received agent idtemplate(id:70209137999560,max:9)
+2020/05/13 16:15:08:956 [9796,10004] INFO  ConnectToServer: LoginOK (connection time: 0.229sec)
+2020/05/13 16:15:08:956 [9796,10004] INFO  ConnectToServer: LoginUserID 70202972297304 SessionID 70209137999840
+2020/05/13 16:15:09:047 [9796,12340] INFO  update client: the version 5.2.706 has integrity violation, update will be made
+2020/05/13 16:15:13:768 [9796,12340] INFO  update client: begin
+2020/05/13 16:15:13:769 [9796,12340] INFO  update client: CleanupFolder C:\Users\User\AppData\Local\Temp\PHX_CACHE\*.* 
+2020/05/13 16:15:14:955 [9796,12340] INFO  update client: CleanupFolder D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\*.* 
+2020/05/13 16:15:14:958 [9796,12340] INFO  update client: CleanupFolder D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\*.* 
+2020/05/13 16:15:14:961 [9796,12340] INFO  update client: sending request
+2020/05/13 16:15:14:975 [9796,12340] INFO  update client: show progress form
+2020/05/13 16:15:27:215 [9796,12340] INFO  update client: unpack new client to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\
+2020/05/13 16:15:30:230 [9796,12340] INFO  update client: backup current client D:\ASMO\phx-5.02.706-windows-x32\ to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\
+2020/05/13 16:15:30:234 [9796,12340] INFO  update client: MoveClientFolder from D:\ASMO\phx-5.02.706-windows-x32\modules   to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\
+2020/05/13 16:15:30:518 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\dbginfo.dll to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\dbginfo.dll
+2020/05/13 16:15:30:518 [9796,12340] INFO  update client: MoveClientFile  fileAttribute = $FFFFFFFF D:\ASMO\phx-5.02.706-windows-x32\dbginfo.dll
+2020/05/13 16:15:30:518 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\jsrt.dll to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\jsrt.dll
+2020/05/13 16:15:30:520 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\phx.exe to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\phx.exe
+2020/05/13 16:15:30:521 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\phx.map to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\phx.map
+2020/05/13 16:15:30:523 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\phxnet.dll to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\phxnet.dll
+2020/05/13 16:15:30:524 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\phxnet.pdb to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\phxnet.pdb
+2020/05/13 16:15:30:525 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\phxrtl.bpl to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\phxrtl.bpl
+2020/05/13 16:15:30:527 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\phxrtl.map to D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\Backup\phxrtl.map
+2020/05/13 16:15:30:529 [9796,12340] INFO  update client: install new client D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\ to D:\ASMO\phx-5.02.706-windows-x32\
+2020/05/13 16:15:30:530 [9796,12340] INFO  update client: MoveClientFolder from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\modules   to D:\ASMO\phx-5.02.706-windows-x32\
+2020/05/13 16:15:30:599 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\dbginfo.dll to D:\ASMO\phx-5.02.706-windows-x32\dbginfo.dll
+2020/05/13 16:15:30:600 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\jsrt.dll to D:\ASMO\phx-5.02.706-windows-x32\jsrt.dll
+2020/05/13 16:15:30:601 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\phx.exe to D:\ASMO\phx-5.02.706-windows-x32\phx.exe
+2020/05/13 16:15:30:602 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\phx.map to D:\ASMO\phx-5.02.706-windows-x32\phx.map
+2020/05/13 16:15:30:603 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\phxnet.dll to D:\ASMO\phx-5.02.706-windows-x32\phxnet.dll
+2020/05/13 16:15:30:605 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\phxnet.pdb to D:\ASMO\phx-5.02.706-windows-x32\phxnet.pdb
+2020/05/13 16:15:30:606 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\phxrtl.bpl to D:\ASMO\phx-5.02.706-windows-x32\phxrtl.bpl
+2020/05/13 16:15:30:607 [9796,12340] INFO  update client: MoveClientFile  from D:\ASMO\phx-5.02.706-windows-x32\AutoUpdate\New\5-2-706\phxrtl.map to D:\ASMO\phx-5.02.706-windows-x32\phxrtl.map
+2020/05/13 16:15:30:618 [9796,12340] INFO  update client: restarting
