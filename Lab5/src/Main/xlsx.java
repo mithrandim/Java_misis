@@ -22,7 +22,7 @@ class Main
         SXSSFSheet sheet1 = wb.createSheet("Sheet with text");
         SXSSFSheet sheet2 = wb.createSheet("Sheet with formula");
 
-        // Задание пароля и установка его для листов
+        // Создание пароля и установка его для листов
         String password = "123";
         sheet1.protectSheet(password);
         sheet2.protectSheet(password);
