@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="poi-3.17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../JDK/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../JDK/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../JDK/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../JDK/poi-scratchpad-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../JDK/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../JDK/commons-collections4-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
